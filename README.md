@@ -1,1 +1,1 @@
-# NotesApp
+# prac-notes-app
